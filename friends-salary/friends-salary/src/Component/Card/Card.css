@@ -1,0 +1,11 @@
+.card:hover{
+    box-shadow: 0px 0px 60px lightcoral;
+}
+.card-body{
+    margin: 0;
+    padding: 25px;
+    
+}
+.card-body .right{
+    margin-left: 30px;
+}

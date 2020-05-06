@@ -1,0 +1,18 @@
+.body{
+    display: flex;
+}
+.card-body{
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/2f/c2/5b/2fc25b9b0a0b12a1fe487c90125f5b62.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    padding-left: 150px;
+    width: auto;
+    transition: linear;
+}
+.card-side{
+    background-image: url(https://previews.123rf.com/images/elenarolau/elenarolau1702/elenarolau170200008/73410377-mint-green-watercolor-background-with-stains-spring-easter-watercolour-texture-soft-pastel-color-han.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 300px;
+}

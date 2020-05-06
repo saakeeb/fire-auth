@@ -1,0 +1,40 @@
+.header{
+    height: 80px;
+    text-align: center;
+}
+.header img{
+    height: 120px;
+    width: auto;
+}
+.header nav{
+    background-image: linear-gradient(rgb(177, 89, 171), rgb(235, 15, 220));
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 5px;
+    color: black;
+}
+nav a:hover{
+    background-color: #4C1699;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: goldenrod;
+    line-height: 25px;
+    width: auto;
+    border-radius: 0 20px 20px 0; 
+}
+button:hover{
+    text-transform: uppercase;
+}
+input{
+    box-sizing: border-box;
+    width: auto;
+    line-height: 25px;
+    border-radius: 20px 0 0 20px; 
+}
